@@ -34,7 +34,7 @@ I enjoy building things that run in the real world:
 - VPS deployment
 
 **Databases**
-- MySQL, PostgreSQL
+- MySQL, MongoDB
 
 ---
 
